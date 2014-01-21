@@ -12,3 +12,4 @@ morphs <- read.csv(paste(datadir, "2013_mendee_data_cmf.csv", sep="/"))
 # Read formatted Talia isotope data
 isotopes <- read.csv(paste(datadir, "2013_isotope_data_cmf.csv", sep="/"))
 
+#Talia just made some changes!
